@@ -39,11 +39,9 @@ According to the project report, the system is designed using layered architectu
 
 ---
 
-## 🖼️ Game Preview
 
-(Add a screenshot here — you already have one in your report, page 11!)
 
----
+
 
 ## 📂 Project Structure
 
