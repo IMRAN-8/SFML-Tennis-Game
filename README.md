@@ -134,7 +134,7 @@ For full details, see:
 
 **MD. Imran Hosen**
 
-Department of ICT, 
+Department of ICT
 
 Mawlana Bhashani Science and Technology University
 
